@@ -1,0 +1,17 @@
+{
+  "resolution": [
+    256,
+    224
+  ],
+  "tile_size": [
+    8,
+    8
+  ],
+  "tilemap": [
+    32,
+    28
+  ],
+  "unique_tiles": 327,
+  "tile_format": "SNES 4bpp planar, 32 bytes/tile",
+  "palette_colors": 16
+}
