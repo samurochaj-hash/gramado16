@@ -35,3 +35,7 @@ O resultado esperado será `build/gramado16.sfc`. O alvo de build já está prep
 ## Nota de escopo
 
 Esta entrega estabelece a fundação e o roteiro técnico. Não apresenta uma ROM vazia como se fosse um jogo pronto. A próxima etapa de produção é desenhar e carregar o campo e o HUD em tiles SNES, depois integrar os sprites, adicionar bola, IA e regras.
+
+## Etapa 4 — bola e movimentação
+
+A etapa 4 acrescenta a arte da bola em quatro quadros, tiles SNES 4bpp, paleta BGR555 e um modelo de física de referência em C. Consulte `docs/ETAPA4_BOLA_MOVIMENTO.md`. A física ainda precisa ser portada para 65C816 e ligada ao loop do jogo; portanto esta entrega não é uma ROM jogável.

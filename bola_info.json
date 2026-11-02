@@ -1,0 +1,21 @@
+{
+  "format": "SNES 4bpp planar",
+  "frames": 4,
+  "frame_size": [
+    16,
+    16
+  ],
+  "sheet_size": [
+    64,
+    16
+  ],
+  "tiles_per_frame": 4,
+  "tile_size": [
+    8,
+    8
+  ],
+  "tiles_binary_bytes": 512,
+  "palette_entries": 16,
+  "palette_format": "BGR555 little-endian",
+  "transparent_color_index": 0
+}
